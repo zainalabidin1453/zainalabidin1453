@@ -4,7 +4,7 @@
 <h3 align="left">About Me:</h3>
 
 - 🌱 I’m currently learning **Android Development.**
-- 👨‍💻 All of my projects are available at [https://linktr.ee/zainalabidin1453](https://linktr.ee/zainalabidin1453?subscribe)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/zainalabidin1453?subscribe](https://linktr.ee/zainalabidin1453)
 - 📝 I regularly write articles on [https://kompasiana.com/zainalabidin1453](https://kompasiana.com/zainalabidin1453)
 - 💬 Ask me about **Finance, Android Development or Kotlin, PHP, HTML, CSS, Javascript, and mySQL.**
 - 📫 How to reach me **juliopratamazain@gmail.com**
